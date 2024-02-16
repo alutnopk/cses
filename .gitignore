@@ -1,3 +1,9 @@
+.vscode/
+.cph/
+foo.*
+foo
+a.out
+
 # Prerequisites
 *.d
 
